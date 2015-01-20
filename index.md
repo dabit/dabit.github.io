@@ -99,7 +99,8 @@ Writing of Technical Specs, Functional Specs, Impact Analysis.
 ### Software Engineering Manager at Advanced Computing Mexico
 **June 2003 - January 2005 (1 year 8 months)**
 
-Software Engineering Team Leader Design and Analysis of Financial Web Applications. </p>
+Software Engineering Team Leader Design and Analysis of Financial Web and
+Desktop Applications.
 
 <hr/>
 
